@@ -1,3 +1,3 @@
 # TurtleArtDesign
-<h1> Your_Full_Name: TITLE _OF_YOUR_ARTWORK </h1>
-<img src=" insert URL address of image page here between quotes ">
+<h1> Kieran Gunasekrara: SUPREME YARN </h1>
+<img src="https://github.com/kierang1/TurtleArtDesign/blob/master/supreme%20yarn.PNG">
